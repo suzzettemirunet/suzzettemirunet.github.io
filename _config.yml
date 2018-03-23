@@ -1,5 +1,5 @@
 # Site settings
-title: Your awesome title
+title: Learning Project
 description: > # this means to ignore newlines until "baseurl:"
   Just learning how to deploy a website using codecademy.com and Github. Nothing special to see/do here.
 baseurl: "" # the subpath of your site, e.g. /blog
